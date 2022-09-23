@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AutoMapper;
 
 namespace LocationApi.Data.AutoMapper
 {
-    public class AutomapperProfile
+    public class AutomapperProfile : Profile
     {
     }
 }
