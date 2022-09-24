@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationApi.Domain", "Locat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationApi.Data", "LocationApi.Data\LocationApi.Data.csproj", "{584DDDED-0F5C-44CC-8222-1185D50655B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationApi.BusinessLogic", "LocationApi.BusinessLogic\LocationApi.BusinessLogic.csproj", "{164FC04F-7C0C-49F4-89DB-3BE3F5E11835}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{584DDDED-0F5C-44CC-8222-1185D50655B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{584DDDED-0F5C-44CC-8222-1185D50655B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{584DDDED-0F5C-44CC-8222-1185D50655B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164FC04F-7C0C-49F4-89DB-3BE3F5E11835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164FC04F-7C0C-49F4-89DB-3BE3F5E11835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164FC04F-7C0C-49F4-89DB-3BE3F5E11835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164FC04F-7C0C-49F4-89DB-3BE3F5E11835}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
